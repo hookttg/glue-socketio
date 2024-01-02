@@ -27,7 +27,7 @@ import (
 	"time"
 
 	"github.com/sirupsen/logrus"
-	"github.com/blang/semver"
+	"github.com/blang/semver/v4"
 	"github.com/desertbit/glue/backend"
 	"github.com/desertbit/glue/log"
 	"github.com/desertbit/glue/utils"
